@@ -23,3 +23,19 @@ Make sure you have the following libraries installed:
 
 ```bash
 pip install torch torchvision pandas scikit-learn matplotlib seaborn
+```
+
+## 📂 Dataset Setup
+
+Download the dataset from Kaggle:📁 Sentiment Analysis for Mental Health
+
+Place the downloaded CSV file in your project directory and rename it (if needed) to:
+
+## 🙌 Acknowledgments
+Dataset by Suchintika Sarkar
+
+## MIT License
+
+Copyright (c) [2025] Nikhil Rajyaguyru
+
+Permission is hereby granted, free of charge, to any person obtaining a copy.
